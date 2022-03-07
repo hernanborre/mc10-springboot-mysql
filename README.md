@@ -40,9 +40,8 @@ Tener instalado / instalar lo siguiente:
 - PathVariables
 - Query strings (query params - RequestParam en spring)
 
-Longbok
+Vamos a https://start.spring.io/ y creamos nuestro primer proyecto Spring (spring data jpa, mysql connector, spring web, spring boot DevTools)
 
-Spring Boot Dev Tools
 
 MVC (Model View Controller)
 
