@@ -155,6 +155,8 @@ Accessing JPA Data with REST (springboot)
 
 [https://spring.io/guides/gs/accessing-data-rest/](https://spring.io/guides/gs/accessing-data-rest/)
 
+[https://tutorialmeta.com/question/spring-data-jpa-manytomany-delete-entities-of-the-join-table](Otro ejemplo ManyToMany con sugerencias)
+
 [Clase](https://www.notion.so/Clase-e234b46b82ad46b8aed1535ec694986a)
 
 [](https://www.notion.so/5f65c547cc744192bcb96e5458b27f7e)
