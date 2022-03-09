@@ -20,7 +20,7 @@ Página oficial Java Spring Boot: [https://spring.io/projects/spring-boot](https
 Tener instalado / instalar lo siguiente: 
 
 - MySQL Community Edition: [https://dev.mysql.com/downloads/](https://dev.mysql.com/downloads/)
-- Bajar **DBeaver:** [https://dbeaver.com/download/](https://dbeaver.com/download/)
+- Bajar **DBeaver Community Edition** [https://dbeaver.io/download/](https://dbeaver.io/download/)
 - JDK Java Development Kit: [https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - Netbeans: [https://netbeans.apache.org/download/index.html](https://netbeans.apache.org/download/index.html)
 - Opcional - Netbeans Dark Darcula plugin: [https://draculatheme.com/netbeans](https://draculatheme.com/netbeans)
